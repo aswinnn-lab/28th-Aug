@@ -1,4 +1,4 @@
 function toggleMenu(){
-    const el=document.querySelector("div");
+    const el=document.querySelector("header");
     el.classList.toggle("hidden");
 }
